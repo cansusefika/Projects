@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CansuŞefikaÇulha_20232425013/1.0.0": {
+        "runtime": {
+          "CansuŞefikaÇulha_20232425013.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CansuŞefikaÇulha_20232425013/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

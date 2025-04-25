@@ -1,0 +1,14 @@
+#cvm{
+    color:#ced4ce;
+    font-size:x-large;
+    letter-spacing:2px;
+    text-align: center;
+}
+#cvf{
+    text-align: center;
+}
+body{
+    background-image:url(star.JPG);
+     border-style:outset;
+     border:thick double #ced4ce;
+}

@@ -1,0 +1,291 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#ust {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 2vw;
+    justify-content: space-around;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #000000;
+    color: #c2bda4;
+    font-size: large;
+}
+
+#menu{
+    list-style: none;
+}
+
+#menu li{
+    display: inline-block;
+    padding: 2vw;
+
+}
+
+#menu li a{
+    color: red;
+}
+#menu a:hover{
+    background-color: rgb(255, 255, 255);
+}
+#bolum1{
+    background-image: url(r1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    aspect-ratio: 5/2;
+    padding-left: 10vw;
+    padding-top: 5vw;
+}
+#bolum1 p:nth-child(1){
+    font-size: 6vw;
+    color: white;
+}
+#bolum1 p:nth-child(2){
+    font-size: 6vw;
+    margin-left: 13vw;
+    color: red;
+}
+#bolum2 {
+    padding: 6vw;
+}
+
+#kutu1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+#bolum3{
+    display: flex;
+    justify-content: center;
+    
+}
+#dıstaraf{
+    width: 60%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 3vw;
+    
+}
+#baslık p{
+    padding: 5rem;
+ }
+#baslık{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    position: relative;
+    justify-content: space-between;
+    text-decoration: none;
+}
+#baslık a{
+    text-decoration: none;
+    color: red;
+}
+#baslık2 a{
+    text-decoration: none;
+    color: red;
+}
+#baslık3 a{
+    text-decoration: none;
+    color: red;
+}
+#baslık4 a{
+    text-decoration: none;
+    color: red;
+}
+#baslık5 a{
+    text-decoration: none;
+    color: red;
+}
+#baslık6 a{
+    text-decoration: none;
+    color: red;
+}
+#Acıklama{
+    margin-left: 1rem;
+}
+#ikon1 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+ padding: 1rem;
+ padding-right:1rem;
+}
+#baslık2{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    position: relative;
+    justify-content: space-between;
+  
+}
+#Acıklama2{
+    margin-left: 1rem;
+}
+#ikon2{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+ padding: 1rem;
+ padding-right:1rem;
+}
+#baslık3{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    position: relative;
+    justify-content: space-between;
+  
+}
+#Acıklama3{
+    margin-left: 1rem;
+}
+#ikon3{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+ padding: 1rem;
+ padding-right:1rem;
+}
+#baslık4{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    position: relative;
+    justify-content: space-between;
+  
+}
+#Acıklam4a{
+    margin-left: 1rem;
+}
+#ikon4 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+ padding: 1rem;
+ padding-right:1rem;
+}
+#baslık5{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    position: relative;
+    justify-content: space-between;
+  
+}
+#Acıklama5{
+    margin-left: 1rem;
+}
+#ikon5 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+ padding: 1rem;
+ padding-right:1rem;
+}
+#baslık6{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    position: relative;
+    justify-content: space-between;
+  
+}
+#Acıklama6{
+    margin-left: 1rem;
+}
+#ikon6 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+ padding: 1rem;
+ padding-right:1rem;
+}
+#Yorum{
+    margin-left: 1rem;
+}
+#Yorum2{
+    margin-left: 1rem;
+}
+#Yorum3{
+    margin-left: 1rem;
+}
+#Yorum4{
+    margin-left: 1rem;
+}
+#Yorum5{
+    margin-left: 1rem;
+}
+#Yorum6{
+    margin-left: 1rem;
+}
+
+#bitiş2{
+    margin-left: 18rem;
+    padding: 2rem;
+    width: 45rem;
+    font-size: 1.2rem;
+    
+}
+#bitişcizgisi{
+    margin-top: 20px;
+    width: 50%;
+    margin-top: 2vw;
+    
+    
+}
+#bitiş{
+    margin-left: 20rem;
+    font-size: 1.2rem;
+    margin-top: 5rem;
+}
+.bum{
+    text-decoration: none;
+    color: red;
+    width: 30vw;
+}
+#sa a{
+    text-decoration: none;
+    color: black;
+}
+#sa a:hover{
+    color: red;
+}
+#bitiş2 button{
+    border-radius: 1.2vw;
+    padding: 1vw 2vw;
+    background-color: red;
+    color: white;
+
+}
+#bitiş2 button:hover{
+    background-color: black;
+    
+}
+#rüzgar{
+    width: 50%;
+    padding: 2vw;
+}
+#kapı{
+    display: flex;
+}
+#sa{
+    padding-top:2vw ;
+    padding-left: 2vw;
+}
+#okay{
+    margin-top: 2vw;
+}
