@@ -1,0 +1,12 @@
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\bin\Debug\OtobüsOtomasyonu.exe.config
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\bin\Debug\OtobüsOtomasyonu.exe
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\bin\Debug\OtobüsOtomasyonu.pdb
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.Form1.resources
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.Form2.resources
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.Form3.resources
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.Properties.Resources.resources
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.csproj.GenerateResource.cache
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.exe
+C:\Users\CANSU\source\repos\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.pdb

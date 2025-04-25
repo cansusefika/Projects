@@ -1,0 +1,14 @@
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\obj\Debug\net8.0\şifreOluşturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\obj\Debug\net8.0\şifreOluşturma.AssemblyInfoInputs.cache
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\obj\Debug\net8.0\şifreOluşturma.AssemblyInfo.cs
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\obj\Debug\net8.0\şifreOluşturma.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\bin\Debug\net8.0\şifreOluşturma.exe
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\bin\Debug\net8.0\şifreOluşturma.deps.json
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\bin\Debug\net8.0\şifreOluşturma.runtimeconfig.json
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\bin\Debug\net8.0\şifreOluşturma.dll
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\bin\Debug\net8.0\şifreOluşturma.pdb
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\obj\Debug\net8.0\şifreOluşturma.dll
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\obj\Debug\net8.0\refint\şifreOluşturma.dll
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\obj\Debug\net8.0\şifreOluşturma.pdb
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\obj\Debug\net8.0\şifreOluşturma.genruntimeconfig.cache
+C:\Users\CANSU\source\repos\şifreOluşturma\şifreOluşturma\obj\Debug\net8.0\ref\şifreOluşturma.dll
