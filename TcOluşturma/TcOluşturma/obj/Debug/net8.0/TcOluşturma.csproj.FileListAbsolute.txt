@@ -1,0 +1,14 @@
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\bin\Debug\net8.0\TcOluşturma.exe
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\bin\Debug\net8.0\TcOluşturma.deps.json
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\bin\Debug\net8.0\TcOluşturma.runtimeconfig.json
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\bin\Debug\net8.0\TcOluşturma.dll
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\bin\Debug\net8.0\TcOluşturma.pdb
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\obj\Debug\net8.0\TcOluşturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\obj\Debug\net8.0\TcOluşturma.AssemblyInfoInputs.cache
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\obj\Debug\net8.0\TcOluşturma.AssemblyInfo.cs
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\obj\Debug\net8.0\TcOluşturma.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\obj\Debug\net8.0\TcOluşturma.dll
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\obj\Debug\net8.0\refint\TcOluşturma.dll
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\obj\Debug\net8.0\TcOluşturma.pdb
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\obj\Debug\net8.0\TcOluşturma.genruntimeconfig.cache
+C:\Users\CANSU\source\repos\TcOluşturma\TcOluşturma\obj\Debug\net8.0\ref\TcOluşturma.dll
